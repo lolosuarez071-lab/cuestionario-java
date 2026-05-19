@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simulador DAW</title>
+  <title>Simulador test-2evau</title>
   <style>
     * { box-sizing: border-box; }
     :root {
@@ -179,11 +179,11 @@
 <body>
   <div class="contenedor">
     <section id="pantallaInicio">
-      <h1>Simulador DAW</h1>
+      <h1>Simulador test-2evau</h1>
       <p class="subtitulo">Elige una asignatura, un tema concreto o un examen aleatorio completo.</p>
       <div id="listaAsignaturas" class="grid"></div>
       <div class="aviso">
-        Cada examen tiene 30 preguntas. En los temas individuales se repiten preguntas porque cada tema tiene 10.
+        Cada tema tiene 10 preguntas. Los aleatorios contienen 30.
       </div>
     </section>
 
@@ -234,7 +234,7 @@
   <script src="data/sostenibilidad.js"></script>
 
   <script>
-    const TOTAL_PREGUNTAS = 30;
+    const TOTAL_PREGUNTAS = 10;
     const ORDEN_ASIGNATURAS = [
       "programacion",
       "bases_datos",
@@ -337,31 +337,30 @@
       }
     }
 
-    function iniciarExamenTema(tema) {
-      const asignatura = window.QUIZ_DATA[asignaturaActual];
-      bancoActual = asignatura.temas[tema];
-      tituloActual = asignatura.nombre + " - " + tema;
-      iniciarExamen();
-    }
+   function iniciarExamenTema(tema) {
+  const asignatura = window.QUIZ_DATA[asignaturaActual];
+  bancoActual = asignatura.temas[tema];
+  tituloActual = asignatura.nombre + " - " + tema;
+  iniciarExamen(10);
+}
 
-    function iniciarExamenCompleto() {
-      const asignatura = window.QUIZ_DATA[asignaturaActual];
-      bancoActual = Object.values(asignatura.temas).flat();
-      tituloActual = asignatura.nombre + " - Aleatorio completo";
-      iniciarExamen();
-    }
+function iniciarExamenCompleto() {
+  const asignatura = window.QUIZ_DATA[asignaturaActual];
+  bancoActual = Object.values(asignatura.temas).flat();
+  tituloActual = asignatura.nombre + " - Aleatorio completo";
+  iniciarExamen(30);
+}
 
-    function iniciarExamen() {
-      examenActual = crearExamen(bancoActual);
-      indiceActual = 0;
-      puntos = 0;
-      fallos = [];
-      document.getElementById("tituloExamen").textContent = tituloActual;
-      document.getElementById("modo").textContent = examenActual.length + " preguntas";
-      mostrarSolo("pantallaExamen");
-      mostrarPregunta();
-    }
-
+function iniciarExamen(totalPreguntas) {
+  examenActual = crearExamen(bancoActual).slice(0, totalPreguntas);
+  indiceActual = 0;
+  puntos = 0;
+  fallos = [];
+  document.getElementById("tituloExamen").textContent = tituloActual;
+  document.getElementById("modo").textContent = examenActual.length + " preguntas";
+  mostrarSolo("pantallaExamen");
+  mostrarPregunta();
+}
     function mostrarPregunta() {
       respondida = false;
       const pregunta = examenActual[indiceActual];
