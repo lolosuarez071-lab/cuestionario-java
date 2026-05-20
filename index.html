@@ -216,7 +216,7 @@
       <h2>Resultado final</h2>
       <div id="resultado" class="resultado"></div>
       <div class="barra">
-        <button class="boton pequeno" onclick="repetirExamen()">Repetir examen</button>
+        
         <button class="boton secundario pequeno" onclick="salirATemas()">Volver a temas</button>
         <button class="boton secundario pequeno" onclick="mostrarInicio()">Asignaturas</button>
       </div>
@@ -469,10 +469,6 @@ function iniciarExamen(totalPreguntas) {
         .replaceAll(">", "&gt;")
         .replaceAll('"', "&quot;")
         .replaceAll("'", "&#039;");
-    }
-
-    function repetirExamen() {
-      iniciarExamen();
     }
 
     cargarAsignaturas();
