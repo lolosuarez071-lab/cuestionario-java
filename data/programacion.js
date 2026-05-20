@@ -18,8 +18,8 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "Pueden contener variables privadas, y estas ser usadas en los métodos.",
           "En ellas todos los métodos son abstractos de forma implícita.",
-          "Tienen que heredar de la clase Interface. 19/05/2026, 18:39",
-          "Son lo mismo que las clases abstractas."
+          "Tienen que heredar de la clase Interface",
+          "Son lo mismo que las clases abstractas"
         ],
         "correcta": "B"
       },
@@ -58,7 +58,7 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "enum",
           "interface",
-          "inter 19/05/2026, 18:39",
+          "inter ",
           "intertract"
         ],
         "correcta": "B"
@@ -99,7 +99,7 @@ window.QUIZ_DATA["programacion"] = {
           "Mediante espacios en blanco.",
           "Mediante comas.",
           "Mediante punto y coma.",
-          "Mediante tabuladores. 19/05/2026, 18:39 19/05/2026, 18:39"
+          "Mediante tabuladores.  "
         ],
         "correcta": "B"
       }
@@ -120,7 +120,7 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "InputStreamReader.",
           "Reader.",
-          "InputStream. 19/05/2026, 18:51",
+          "InputStream. ",
           "Writer"
         ],
         "correcta": "C"
@@ -159,7 +159,7 @@ window.QUIZ_DATA["programacion"] = {
         "pregunta": "El conjunto de información que puede ser escrito o leído de una sola vez se corresponde con",
         "opciones": [
           "Registros lógico.",
-          "Registro físico. 19/05/2026, 18:51",
+          "Registro físico. ",
           "Dirección lógica",
           "Factor de bloque"
         ],
@@ -200,8 +200,8 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "Ruta absoluta.",
           "Ruta relativa.",
-          "Ruta intermedia. 19/05/2026, 18:51",
-          "Absoluta y relativa 19/05/2026, 18:51"
+          "Ruta intermedia. ",
+          "Absoluta y relativa "
         ],
         "correcta": "D"
       }
@@ -222,7 +222,7 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "IndexOfBoundsException.",
           "Exception.",
-          "ArithmeticException. 19/05/2026, 18:51",
+          "ArithmeticException. ",
           "NullPointerException."
         ],
         "correcta": "C"
@@ -260,7 +260,7 @@ window.QUIZ_DATA["programacion"] = {
       {
         "pregunta": "¿Qué excepción provoca un array cuando intentamos acceder a una posición no válida?",
         "opciones": [
-          "IndexOfBoundsException. 19/05/2026, 18:51",
+          "IndexOfBoundsException. ",
           "Exception.",
           "ArithmeticException.",
           "NullPointerException."
@@ -303,7 +303,7 @@ window.QUIZ_DATA["programacion"] = {
           "NullPointerException.",
           "FileNotFoundException.",
           "IndexOfBoundException.",
-          "FileException. 19/05/2026, 18:51"
+          "FileException. "
         ],
         "correcta": "B"
       }
@@ -324,7 +324,7 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "Solo en la lectura de ficheros de texto.",
           "Solo en la lectura de ficheros binarios.",
-          "Tanto en la lectura de ficheros de texto como en la lectura de ficheros binarios. 19/05/2026, 18:51",
+          "Tanto en la lectura de ficheros de texto como en la lectura de ficheros binarios. ",
           "Tanto en la escritura de ficheros de texto como en la escritura de ficheros binarios."
         ],
         "correcta": "A"
@@ -365,7 +365,7 @@ window.QUIZ_DATA["programacion"] = {
           "El atributo serialVersionUID",
           "El nombre del programa",
           "El fichero .class del programa",
-          "El nombre del fichero 19/05/2026, 18:51"
+          "El nombre del fichero "
         ],
         "correcta": "A"
       },
@@ -405,7 +405,7 @@ window.QUIZ_DATA["programacion"] = {
           "ObjectInputStream",
           "FileOutputStream y ObjectOutputStream",
           "FileInputStream y ObjectInputStream",
-          "ObjectOutputStream 19/05/2026, 18:51"
+          "ObjectOutputStream "
         ],
         "correcta": "C"
       }
@@ -426,7 +426,7 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "Es opcional",
           "Solo se incorpora en ciclos de vidas extendidos",
-          "Debe ser de las primeras fases a considerar 19/05/2026, 18:51",
+          "Debe ser de las primeras fases a considerar ",
           "Es poco relevante, no afecta al producto"
         ],
         "correcta": "C"
@@ -467,7 +467,7 @@ window.QUIZ_DATA["programacion"] = {
           "Es una técnica muy costosa",
           "Es una técnica muy eficiente",
           "Nunca se aplica en la actualidad",
-          "Solo se utiliza en el campo de pruebas de software 19/05/2026, 18:51"
+          "Solo se utiliza en el campo de pruebas de software "
         ],
         "correcta": "A"
       },
@@ -507,7 +507,7 @@ window.QUIZ_DATA["programacion"] = {
           "Es independiente del proceso de pruebas",
           "Es poco relevante para el usuario",
           "Puede mejorar con la utilización de pruebas",
-          "Carece de importancia en cualquier metodología de desarrollo 19/05/2026, 18:51"
+          "Carece de importancia en cualquier metodología de desarrollo "
         ],
         "correcta": "C"
       }
@@ -629,7 +629,7 @@ window.QUIZ_DATA["programacion"] = {
         "pregunta": "¿Qué biblioteca utilizamos en Java para la creación de la interfaz gráfica?",
         "opciones": [
           "SDL",
-          "WxPython 19/05/2026, 18:50",
+          "WxPython ",
           "AWT",
           "Swing"
         ],
@@ -670,7 +670,7 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "Los ordena en 5 partes, norte, sur, este y oeste.",
           "Los alinea en el centro del panel.",
-          "Los maqueta en forma de matriz. 19/05/2026, 18:50",
+          "Los maqueta en forma de matriz. ",
           "No existe el layout FlowLayout."
         ],
         "correcta": "B"
@@ -711,7 +711,7 @@ window.QUIZ_DATA["programacion"] = {
           "Esta clase representa un menú concreto.",
           "Esta clase representa un ítem de un menú, al que le podremos dar funcionalidad.",
           "Es un ítem de menú que actúa como un botón de radio (radio button).",
-          "Esta clase representa un ítem de un menú, pero mostrará un checkbox en él. 19/05/2026, 18:50 19/05/2026, 18:50"
+          "Esta clase representa un ítem de un menú, pero mostrará un checkbox en él.  "
         ],
         "correcta": "C"
       }
@@ -732,7 +732,7 @@ window.QUIZ_DATA["programacion"] = {
         "opciones": [
           "SQLException.",
           "InsertException.",
-          "NotInsertedException. 19/05/2026, 18:50",
+          "NotInsertedException. ",
           "Exception."
         ],
         "correcta": "A"
@@ -773,7 +773,7 @@ window.QUIZ_DATA["programacion"] = {
           "Es la clase que nos permitirá instanciar objetos donde se almacenará nuestra conexión.",
           "Es la clase que nos permitirá instanciar objetos que utilizaremos para realizar las consultas SQL.",
           "Es la clase que nos permitirá instanciar objetos que nos devolverán los resultados de las consultas SQL.",
-          "Es la excepción propia de SQL. 19/05/2026, 18:50"
+          "Es la excepción propia de SQL. "
         ],
         "correcta": "D"
       },
@@ -813,7 +813,7 @@ window.QUIZ_DATA["programacion"] = {
           "Lanza una SQLException ya que está mal la sintaxis.",
           "Borra todos los elementos de la tabla.",
           "Borra la tabla.",
-          "Se ejecuta, pero no tiene efecto. 19/05/2026, 18:50"
+          "Se ejecuta, pero no tiene efecto. "
         ],
         "correcta": "B"
       }
@@ -915,7 +915,7 @@ window.QUIZ_DATA["programacion"] = {
           "first()",
           "next()",
           "previous()",
-          "absolute(int row) 19/05/2026, 18:51"
+          "absolute(int row) "
         ],
         "correcta": "B"
       }
@@ -1007,7 +1007,7 @@ window.QUIZ_DATA["programacion"] = {
           "JPQL opera directamente sobre tablas y columnas de la base de datos.",
           "JPQL permite realizar consultas utilizando entidades y atributos de objetos Java.",
           "JPQL es exclusivo para bases de datos NoSQL.",
-          "JPQL es específico de un proveedor y no es portable entre diferentes bases de datos. 19/05/2026, 18:51"
+          "JPQL es específico de un proveedor y no es portable entre diferentes bases de datos. "
         ],
         "correcta": "B"
       },
@@ -1017,7 +1017,7 @@ window.QUIZ_DATA["programacion"] = {
           "getResult()",
           "getSingleResult()",
           "getResultList()",
-          "executeQuery() 19/05/2026, 18:51"
+          "executeQuery() "
         ],
         "correcta": "C"
       }
