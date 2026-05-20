@@ -94,7 +94,7 @@ window.QUIZ_DATA["sostenibilidad"] = {
         "correcta": "B"
       },
       {
-        "pregunta": "Los problemas de hipertensión son un problema de salud debido a la contaminación acústica de tipo 3 de 4 …",
+        "pregunta": "Los problemas de hipertensión son un problema de salud debido a la contaminación acústica de tipo  …",
         "opciones": [
           "Auditivo",
           "Cardiovascular",
@@ -298,7 +298,7 @@ window.QUIZ_DATA["sostenibilidad"] = {
         "correcta": "B"
       },
       {
-        "pregunta": "Señala la respuesta incorrecta 3 de 4",
+        "pregunta": "Señala la respuesta incorrecta ",
         "opciones": [
           "Los restos de comida son un residuo orgánico",
           "Los materiales que no se degradan de forma natural son residuos biodegradables",
@@ -808,7 +808,7 @@ window.QUIZ_DATA["sostenibilidad"] = {
         "correcta": "D"
       },
       {
-        "pregunta": "¿qué significan las siglas SGSST? 3 de 4",
+        "pregunta": "¿qué significan las siglas SGSST? ",
         "opciones": [
           "Sistemas de Gestión de Seguridad y Salud en el Trabajo",
           "Sistemas de Gestión de Seguridad en el Trabajo",
@@ -982,7 +982,7 @@ window.QUIZ_DATA["sostenibilidad"] = {
         "correcta": "A"
       },
       {
-        "pregunta": "2 de 3 ¿Qué finalidad tiene la certificación ASG?",
+        "pregunta": " ¿Qué finalidad tiene la certificación ASG?",
         "opciones": [
           "Controlar el crecimiento económico exclusivamente.",
           "Alinear las decisiones empresariales con criterios ambientales, sociales y de gobernanza.",
