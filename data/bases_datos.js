@@ -199,7 +199,7 @@ window.QUIZ_DATA["bases_datos"] = {
         "pregunta": "En la siguiente consulta: SELECT * FROM libros WHERE autor_id = :id_autor; ¿qué es “:id_autor”?",
         "opciones": [
           "El resultado de concatenar “:” con el id del autor",
-          "Una asignación de valor del campo “id_autor” 19/05/2026, 18:58",
+          "Una asignación de valor del campo “id_autor” ",
           "Una actualización del campo “autor_id”",
           "Una variable enlazada"
         ],
@@ -507,7 +507,7 @@ window.QUIZ_DATA["bases_datos"] = {
           "Asignar nombres a los componentes de los programas",
           "Diferenciar operaciones o agregar comentarios",
           "Asignar un valor a un identificador o realizar comparaciones",
-          "Delimitar las sentencias 19/05/2026, 18:58"
+          "Delimitar las sentencias "
         ],
         "correcta": "B"
       }
@@ -731,7 +731,7 @@ window.QUIZ_DATA["bases_datos"] = {
         "pregunta": "Respecto a la correspondencia entre los elementos del modelo orientado a objetos y el modelo relacional",
         "opciones": [
           "Un objeto se corresponde con una tupla",
-          "Una variable se puede comparar con una relación 19/05/2026, 18:58",
+          "Una variable se puede comparar con una relación ",
           "Un objeto se puede comparar con un atributo",
           "Ninguna de las anteriores"
         ],
@@ -772,7 +772,7 @@ window.QUIZ_DATA["bases_datos"] = {
         "opciones": [
           "El tipo de dato asociado puede ser cualquiera disponible",
           "El tipo de dato puede ser otro tipo de dato objeto",
-          "Está permitida la asignación de la restricción NOT NULL 19/05/2026, 18:58",
+          "Está permitida la asignación de la restricción NOT NULL ",
           "Se pueden declarar después de los métodos"
         ],
         "correcta": "B"
@@ -810,10 +810,10 @@ window.QUIZ_DATA["bases_datos"] = {
       {
         "pregunta": "En un tipo de dato objeto el cuerpo permanece",
         "opciones": [
-          "Público 19/05/2026, 18:58",
+          "Público ",
           "Protegido",
           "Privado",
-          "Ninguna de las anteriores 19/05/2026, 18:58"
+          "Ninguna de las anteriores "
         ],
         "correcta": "C"
       }
@@ -915,7 +915,7 @@ window.QUIZ_DATA["bases_datos"] = {
           "NO INSTANTIABLE",
           "INSTANTIABLE",
           "SELF AS RESULT",
-          "MAP 19/05/2026, 18:58"
+          "MAP "
         ],
         "correcta": "B"
       }
@@ -967,7 +967,7 @@ window.QUIZ_DATA["bases_datos"] = {
           "Realizar comparaciones entre objetos",
           "Modificar el valor de un atributo de un objeto",
           "Eliminar el valor de un objeto",
-          "Todas las anteriores 19/05/2026, 18:58"
+          "Todas las anteriores "
         ],
         "correcta": "A"
       },
@@ -1007,7 +1007,7 @@ window.QUIZ_DATA["bases_datos"] = {
           "Se inserta un objeto tipo alumno3 en una tabla",
           "Se modifica el valor del objeto cuyo id sea ‘876853’",
           "Se modifica el valor del objeto con nombre Federico",
-          "Se actualizan todos los objetos cuyo nombre es Federico 19/05/2026, 18:58"
+          "Se actualizan todos los objetos cuyo nombre es Federico "
         ],
         "correcta": "B"
       },
@@ -1017,7 +1017,7 @@ window.QUIZ_DATA["bases_datos"] = {
           "El comando UPDATE",
           "El comando DELETE",
           "Consultas SELECT",
-          "Ninguna de las anteriores 19/05/2026, 18:58"
+          "Ninguna de las anteriores "
         ],
         "correcta": "C"
       }
