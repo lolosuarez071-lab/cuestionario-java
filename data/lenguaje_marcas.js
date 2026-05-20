@@ -18,7 +18,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "<xs:sequence>",
           "<xs:choice>",
-          "<xs:all> 19/05/2026, 18:54",
+          "<xs:all> ",
           "Todas son correctas."
         ],
         "correcta": "D"
@@ -59,7 +59,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "El número de caracteres de un literal",
           "El número de elementos de una lista",
           "El número de caracteres de un literal o elementos de una lista.",
-          "Elementos de un array 19/05/2026, 18:54"
+          "Elementos de un array "
         ],
         "correcta": "C"
       },
@@ -99,7 +99,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "Ayuda en la escritura de etiquetas.",
           "Sangrado de etiquetas.",
           "Visualización en forma de árbol.",
-          "Todas son correctas. 19/05/2026, 18:54"
+          "Todas son correctas. "
         ],
         "correcta": "D"
       }
@@ -120,7 +120,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "Nodo hermano",
           "Nodo raíz",
-          "Nodo descendiente 19/05/2026, 18:54",
+          "Nodo descendiente ",
           "Nodo ascendiente."
         ],
         "correcta": "B"
@@ -161,7 +161,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "/",
           "@",
           "#",
-          "| 19/05/2026, 18:54"
+          "| "
         ],
         "correcta": "D"
       },
@@ -201,7 +201,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "NOTEPAD++",
           "XML COPY EDITOR",
           "CODEBEAUTIFY",
-          "Todas son online. 19/05/2026, 18:54"
+          "Todas son online. "
         ],
         "correcta": "C"
       }
@@ -222,7 +222,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "Crear el documento XSL",
           "Aplicar la hoja de estilos XSL al documento XML",
-          "Aplicar la hoja de estilos XML al documento XSL 19/05/2026, 18:55",
+          "Aplicar la hoja de estilos XML al documento XSL ",
           "Aplicar la hoja de estilos XLS al documento XML"
         ],
         "correcta": "B"
@@ -261,7 +261,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "pregunta": "¿Qué atributo hay que utilizar en el elemento <xsl:value-of> para indicar el nodo del que quiero obtener su contenido?",
         "opciones": [
           "node",
-          "select 19/05/2026, 18:55",
+          "select ",
           "child",
           "content"
         ],
@@ -302,8 +302,8 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "Sólo etiquetas HTML",
           "Etiquetas HTML y CSS",
-          "Sólo etiquetas CSS 2.1 19/05/2026, 18:55",
-          "Depende de la versión de XSLT. 19/05/2026, 18:55"
+          "Sólo etiquetas CSS 2.1 ",
+          "Depende de la versión de XSLT. "
         ],
         "correcta": "B"
       }
@@ -324,7 +324,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "<xsl:attr>",
           "<xsl:attribute>",
-          "<xsl:element> 19/05/2026, 18:55",
+          "<xsl:element> ",
           "<xsl:attrib>"
         ],
         "correcta": "B"
@@ -365,7 +365,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "1",
           "3",
           "2",
-          "No hay límite. 19/05/2026, 18:55"
+          "No hay límite. "
         ],
         "correcta": "D"
       },
@@ -405,7 +405,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "Páginas",
           "Párrafos",
           "Textos",
-          "Todas son correctas. 19/05/2026, 18:55"
+          "Todas son correctas. "
         ],
         "correcta": "D"
       }
@@ -425,7 +425,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "pregunta": "¿Cómo se llama el proceso de extraer valores de documentos XML y usarlos para actualizar tablas en la base de datos?",
         "opciones": [
           "Publishing",
-          "ExtractXML 19/05/2026, 18:55",
+          "ExtractXML ",
           "Shredding",
           "OutXml"
         ],
@@ -466,7 +466,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "at",
           "range",
-          "to 19/05/2026, 18:55",
+          "to ",
           "in"
         ],
         "correcta": "C"
@@ -507,7 +507,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "Entre paréntesis y separado por un espacio",
           "Entre corchetes y separado por un espacio",
           "Entre paréntesis y separado por comas",
-          "Entre llaves y separado por un espacio 19/05/2026, 18:55 19/05/2026, 18:55"
+          "Entre llaves y separado por un espacio  "
         ],
         "correcta": "C"
       }
@@ -528,7 +528,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "var",
           "define",
-          "declare 19/05/2026, 18:55",
+          "declare ",
           "$var"
         ],
         "correcta": "C"
@@ -569,7 +569,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "String",
           "Integer",
           "Decimal",
-          "Todas son correctas 19/05/2026, 18:55"
+          "Todas son correctas "
         ],
         "correcta": "D"
       },
@@ -608,8 +608,8 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "Insert",
           "Delete",
-          "Replace 19/05/2026, 18:55",
-          "Todas son correctas 19/05/2026, 18:55"
+          "Replace ",
+          "Todas son correctas "
         ],
         "correcta": "D"
       }
@@ -631,7 +631,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "Diseñador",
           "Agregador",
           "Recopilador",
-          "Creador 19/05/2026, 18:55"
+          "Creador "
         ],
         "correcta": "B"
       },
@@ -711,7 +711,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "Es una herramienta de creación",
           "Es una herramienta de agregación",
           "Es un lugar donde publicar el canal",
-          "Es un tipo de validador. 19/05/2026, 18:55"
+          "Es un tipo de validador. "
         ],
         "correcta": "C"
       }
@@ -733,7 +733,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "log()",
           "log.console()",
           "console()",
-          "console.log() 19/05/2026, 18:55"
+          "console.log() "
         ],
         "correcta": "D"
       },
@@ -813,7 +813,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "Create",
           "New",
           "document.create",
-          "Inc 19/05/2026, 18:55"
+          "Inc "
         ],
         "correcta": "B"
       }
@@ -834,7 +834,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "pop()",
           "push()",
-          "shift() 19/05/2026, 18:55",
+          "shift() ",
           "unshift()"
         ],
         "correcta": "C"
@@ -875,7 +875,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "getElementsById()",
           "getElementsByName()",
           "getElementByName()",
-          "Ninguna es correcta 19/05/2026, 18:55"
+          "Ninguna es correcta "
         ],
         "correcta": "D"
       },
@@ -915,7 +915,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "childNodes()",
           "hasNodes()",
           "hasChildNodes()",
-          "haschildNodes() 19/05/2026, 18:55 19/05/2026, 18:55"
+          "haschildNodes()  "
         ],
         "correcta": "C"
       }
@@ -935,7 +935,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "pregunta": "¿Qué significan las siglas ERP?",
         "opciones": [
           "Enterprise Resource Planning",
-          "Extend Resource Planning 19/05/2026, 18:55",
+          "Extend Resource Planning ",
           "Extend Row Plan",
           "Enterprise Resource Project"
         ],
@@ -976,7 +976,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
         "opciones": [
           "Dolibarr",
           "Sap",
-          "Odoo 19/05/2026, 18:55",
+          "Odoo ",
           "Tryton"
         ],
         "correcta": "B"
@@ -1017,7 +1017,7 @@ window.QUIZ_DATA["lenguaje_marcas"] = {
           "Clasificación",
           "Diagnóstico",
           "Resolución",
-          "Registro 19/05/2026, 18:55 19/05/2026, 18:55"
+          "Registro  "
         ],
         "correcta": "B"
       }
