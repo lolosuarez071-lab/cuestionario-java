@@ -17,7 +17,7 @@ window.QUIZ_DATA["bases_datos"] = {
         "pregunta": "La cláusula que combina las filas de ambas tablas cuando hay coincidencias en una columna específica es y sólo muestra las filas donde los datos coinciden en ambas tablas es",
         "opciones": [
           "‘CROSS JOIN’",
-          "‘JOIN’,
+          "‘JOIN’",
           "‘LEFT JOIN’",
           "Ninguna de las anteriores"
         ],
