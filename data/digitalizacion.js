@@ -196,7 +196,7 @@ window.QUIZ_DATA["digitalizacion"] = {
         "correcta": "B"
       },
       {
-        "pregunta": "3 de 4 ¿Qué tipo de respaldo se utiliza para copiar solo los datos que han cambiado desde el último respaldo?",
+        "pregunta": " ¿Qué tipo de respaldo se utiliza para copiar solo los datos que han cambiado desde el último respaldo?",
         "opciones": [
           "Completo",
           "Incremental",
@@ -400,7 +400,7 @@ window.QUIZ_DATA["digitalizacion"] = {
         "correcta": "C"
       },
       {
-        "pregunta": "3 de 4 ¿Qué deben incluir las descripciones de productos para ser efectivas?",
+        "pregunta": " ¿Qué deben incluir las descripciones de productos para ser efectivas?",
         "opciones": [
           "Herramientas de big data",
           "Sistemas automáticos de reordenación",
@@ -870,7 +870,7 @@ window.QUIZ_DATA["digitalizacion"] = {
         "correcta": "B"
       },
       {
-        "pregunta": "¿Qué tipo de copia de seguridad incluye solo los datos que han cambiado desde la última copia de seguridad completa? 2 de 4",
+        "pregunta": "¿Qué tipo de copia de seguridad incluye solo los datos que han cambiado desde la última copia de seguridad completa? ",
         "opciones": [
           "Completa",
           "Incremental",
@@ -910,7 +910,7 @@ window.QUIZ_DATA["digitalizacion"] = {
         "correcta": "B"
       },
       {
-        "pregunta": "3 de 4 ¿Cuál es una característica distintiva de los virus en comparación con otros tipos de malware?",
+        "pregunta": " ¿Cuál es una característica distintiva de los virus en comparación con otros tipos de malware?",
         "opciones": [
           "Se propagan por sí mismos a través de redes sin necesidad de un programa huésped.",
           "Se presentan como software legítimo y permiten acceso remoto al sistema.",
