@@ -265,7 +265,7 @@ window.QUIZ_DATA["bases_datos"] = {
           "Acceder a otros objetos de forma indirecta",
           "Todas las anteriores"
         ],
-        "correcta": "C"
+        "correcta": "A"
       },
       {
         "pregunta": "Se pueden crear índices usando las sentencias",
